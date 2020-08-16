@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Internship-
+# The-Sparks-Foundation-Internship
 
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 
