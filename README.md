@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Internship-Task-5-Business-Analytics-
+# The-Sparks-Foundation-Internship-
 
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 
